@@ -1,7 +1,7 @@
 # vue-element-admin-site
 The documentation source of [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
-[Online](https://panjiachen.github.io/vue-element-admin-site)
+[Online](https://ergoz.github.io/vue-element-admin-site)
 
 ## Development
 
